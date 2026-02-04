@@ -1,13 +1,23 @@
-Tanıtım videosu:
-https://youtu.be/BZL7_4W2QU4
+🐝 Aricilik Urun Satis & Tanitim Sitesi
 
-🚀Arıcılık  Tanıtım Sitesi
+Doğal arıcılık ürünlerinin modern, hızlı ve kullanıcı dostu bir web sitesi üzerinden tanıtımı ve satışı.
 
--Hızlı ve kullanıcı dostu
+🎥 Tanıtım Videosu
+👉 [https://youtube.com/VIDEO_LINK](https://youtu.be/BZL7_4W2QU4)
 
--Modern arayüz
+</div>
+✨ Özellikler
 
--Kolay kurulum
+🍯 Ürün tanıtım ve listeleme
+
+📱 Mobil uyumlu (Responsive)
+
+⚡ Hızlı ve sade arayüz
+
+🔍 SEO dostu sayfa yapısı
 
 🛠 Kullanılan Teknolojiler
-HTML / CSS / JS
+
+HTML5
+
+CSS3 / Bootstrap
