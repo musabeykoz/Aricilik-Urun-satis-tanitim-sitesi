@@ -3,7 +3,7 @@
 Doğal arıcılık ürünlerinin modern, hızlı ve kullanıcı dostu bir web sitesi üzerinden tanıtımı ve satışı.
 
 🎥 Tanıtım Videosu
-👉 [https://youtube.com/VIDEO_LINK](https://youtu.be/BZL7_4W2QU4)
+👉 https://youtu.be/BZL7_4W2QU4
 
 </div>
 ✨ Özellikler
