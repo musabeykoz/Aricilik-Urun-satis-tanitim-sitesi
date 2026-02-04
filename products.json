@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Çiçek Balı",
+      "description": "Doğal çiçeklerden elde edilen, kristalize olmayan taze bal. Yüksek kaliteli çiçek nektarlarından üretilmiştir.",
+      "price": 85,
+      "image": "fas fa-seedling",
+      "category": "bal",
+      "features": [
+        "100% Doğal",
+        "Kristalize Olmaz",
+        "Vitamin ve Mineral Zengin",
+        "Antibakteriyel Özellik"
+      ],
+      "benefits": [
+        "Bağışıklık sistemini güçlendirir",
+        "Doğal enerji kaynağıdır",
+        "Antibakteriyel özellik gösterir",
+        "Vitamin ve mineral açısından zengindir",
+        "Doğal tatlandırıcı olarak kullanılabilir"
+      ],
+      "weight": "500g",
+      "origin": "Doğal Çiçek Bahçeleri"
+    },
+    {
+      "id": 2,
+      "name": "Çam Balı",
+      "description": "Çam ağaçlarından elde edilen, koyu renkli ve aromatik bal. Özel aroması ve yoğun tadı ile bilinir.",
+      "price": 95,
+      "image": "fas fa-tree",
+      "category": "bal",
+      "features": [
+        "Koyu Renkli",
+        "Aromatik Tat",
+        "Yüksek Antioksidan",
+        "Doğal Şeker Kaynağı"
+      ],
+      "benefits": [
+        "Güçlü antioksidan özellik gösterir",
+        "Solunum yollarına faydalıdır",
+        "Doğal enerji verir",
+        "Bağışıklık sistemini destekler",
+        "Özel aroması ile lezzetli bir deneyim sunar"
+      ],
+      "weight": "500g",
+      "origin": "Çam Ormanları"
+    },
+    {
+      "id": 3,
+      "name": "Propolis",
+      "description": "Arıların ürettiği doğal antibiyotik ve bağışıklık güçlendirici. En güçlü doğal koruyucu maddelerden biridir.",
+      "price": 120,
+      "image": "fas fa-shield-alt",
+      "category": "arı-ürünü",
+      "features": [
+        "Doğal Antibiyotik",
+        "Bağışıklık Güçlendirici",
+        "Anti-inflamatuar",
+        "Antiviral Özellik"
+      ],
+      "benefits": [
+        "Doğal antibiyotik özellik gösterir",
+        "Bağışıklık sistemini güçlendirir",
+        "Anti-inflamatuar etki yapar",
+        "Antiviral özellik taşır",
+        "Yara iyileşmesini hızlandırır"
+      ],
+      "weight": "30g",
+      "origin": "Arı Kovanları"
+    },
+    {
+      "id": 4,
+      "name": "Arı Sütü",
+      "description": "Kraliçe arı besini, en değerli arı ürünü. Yüksek protein ve vitamin içeriği ile doğanın süper besini.",
+      "price": 200,
+      "image": "fas fa-crown",
+      "category": "arı-ürünü",
+      "features": [
+        "Süper Besin",
+        "Yüksek Protein",
+        "Vitamin Zengin",
+        "Enerji Verici"
+      ],
+      "benefits": [
+        "Süper besin olarak bilinir",
+        "Yüksek protein içeriği",
+        "Vitamin ve mineral açısından zengin",
+        "Doğal enerji verir",
+        "Anti-aging özellik gösterir"
+      ],
+      "weight": "20g",
+      "origin": "Kraliçe Arı Besini"
+    },
+    {
+      "id": 5,
+      "name": "Polen",
+      "description": "Doğal protein ve vitamin kaynağı. Arıların topladığı çiçek polenleri, doğal beslenme için ideal.",
+      "price": 75,
+      "image": "fas fa-circle",
+      "category": "arı-ürünü",
+      "features": [
+        "Protein Kaynağı",
+        "Vitamin Zengin",
+        "Doğal Enerji",
+        "Besleyici Değer"
+      ],
+      "benefits": [
+        "Zengin protein kaynağıdır",
+        "Vitamin ve mineral açısından zengin",
+        "Doğal enerji verir",
+        "Besleyici değeri yüksektir",
+        "Sporcular için ideal besin"
+      ],
+      "weight": "100g",
+      "origin": "Çiçek Polenleri"
+    },
+    {
+      "id": 6,
+      "name": "Hediye Paketi",
+      "description": "Özel günler için hazırlanmış hediye paketleri. Farklı ürünlerin bir arada sunulduğu özel koleksiyon.",
+      "price": 150,
+      "image": "fas fa-gift",
+      "category": "hediye",
+      "features": [
+        "Özel Paketleme",
+        "Çoklu Ürün",
+        "Hediye Kutusu",
+        "Özel Günler İçin"
+      ],
+      "benefits": [
+        "Özel günler için ideal hediye",
+        "Çoklu ürün çeşitliliği",
+        "Özel paketleme ile sunulur",
+        "Sevdiklerinize doğal armağan",
+        "Kaliteli ve güvenilir ürünler"
+      ],
+      "weight": "Çeşitli",
+      "origin": "Özel Koleksiyon"
+    }
+  ]
+}
