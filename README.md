@@ -21,6 +21,14 @@ Doğal arıcılık ürünlerinin modern, hızlı ve kullanıcı dostu bir web si
 
 HTML5/CSS3/JAVASCRİPT
 
+------------------------------------------
+
+GitHub: https://github.com/musabeykoz
+
+LinkedIn: https://linkedin.com/in/musabeykoz
+
+Web: https://musabeykoz.com
+
 ⭐ Destek Ol
 
 Projeyi beğendiysen yıldız atmayı unutma ⭐ Bu, projeyi geliştirmem için büyük motivasyon sağlar!
