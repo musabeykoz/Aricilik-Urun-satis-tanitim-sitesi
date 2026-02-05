@@ -20,3 +20,7 @@ Doğal arıcılık ürünlerinin modern, hızlı ve kullanıcı dostu bir web si
 🛠 Kullanılan Teknolojiler
 
 HTML5/CSS3/JAVASCRİPT
+
+⭐ Destek Ol
+
+Projeyi beğendiysen yıldız atmayı unutma ⭐ Bu, projeyi geliştirmem için büyük motivasyon sağlar!
